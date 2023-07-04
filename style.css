@@ -1,0 +1,31 @@
+*{
+    margin: o;
+    padding: o;
+
+}
+table{
+    display: flex;
+    justify-content:center ;
+    margin-top: 0 auto;
+    
+}
+
+th{
+    border: 1px solid black;
+
+}
+td{
+    border: 1px solid black;
+}
+.green{
+    color: green;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.tb{
+    color: darkmagenta;
+}
